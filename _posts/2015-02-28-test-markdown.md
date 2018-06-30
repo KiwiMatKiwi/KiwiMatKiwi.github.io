@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: test markdown 테스트
+subtitle: It is subtitle 서브타이틀
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
