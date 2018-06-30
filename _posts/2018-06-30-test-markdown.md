@@ -1,9 +1,10 @@
 ---
 layout: post
-title: test markdown 테스트
-subtitle: It is subtitle 서브타이틀
+title: test markdown 테스트 마크다운
+subtitle: It is subtitle 서브타이틀 입력
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+bigimg: /img/test-bigimg.jpg
 tags: [test]
 ---
 

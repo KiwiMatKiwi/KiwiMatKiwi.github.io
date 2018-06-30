@@ -17,7 +17,7 @@ baseurl: ""
 title: KiwiMatKiwi
 
 # Short description of your site
-description: Stuffs
+description: 키위맛키위
 
 # --- Navigation bar options --- #
 
@@ -25,7 +25,11 @@ description: Stuffs
 navbar-links:
 #  About Me: "aboutme"
   Design: "design"
-  Coding: "coding"
+  Coding:
+    - Git: "coding_git"
+    - C++: "coding_cpp"
+    - HTML/CSS: "coding_css"
+    - JavaScript: "coding_js"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
